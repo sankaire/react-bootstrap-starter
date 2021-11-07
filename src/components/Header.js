@@ -1,4 +1,5 @@
 import { Container } from 'react-bootstrap'
+// import './Header.css'
 
 const Header = ({ head, description }) => {
   return (

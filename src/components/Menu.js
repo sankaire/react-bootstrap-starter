@@ -1,5 +1,6 @@
 import { Nav, Container } from 'react-bootstrap'
 import { LinkContainer } from 'react-router-bootstrap'
+import './Header.css'
 
 const Menu = () => {
   return (
